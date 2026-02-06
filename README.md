@@ -4,5 +4,7 @@ This repository contains the official implementation of a Pathology-guided Frame
 
 data: 
 all_trials_data: 32 (channel) x 30000 (30 s EEG data) X subject
+
 all_trials_labels: subject X 1
+
 all_sub_ids: subject X 1
